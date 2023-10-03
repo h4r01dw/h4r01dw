@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @h4r01dw [Harry Weinman]
-- 👀 I’m interested in data analytics, web design, and python!
+- 👀 I’m interested in Systems Administration, Automation, Security, and Web Development
 - 🌱 I’m currently learning the basics!  Just starting to learn Git
 - 💞️ I’m looking to collaborate in the future
 - 📫 How to reach me: Text 508-654-9628
